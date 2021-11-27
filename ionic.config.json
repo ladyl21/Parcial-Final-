@@ -1,0 +1,7 @@
+{
+  "name": "appelectiva",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
